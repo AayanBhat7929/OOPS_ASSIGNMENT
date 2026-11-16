@@ -1,21 +1,5 @@
 <img width="1280" height="462" alt="WhatsApp Image 2026-11-16 at 4 43 11 PM" src="https://github.com/user-attachments/assets/4abc5e15-36b9-41f0-810b-3042a3e6fdc5" />
 # OOPS_ASSIGNMENT
-\<!-- C++ BANNER -->
-
-\<p align="center">   \<img src="cpp-banner.png" width="100%" alt="C++ OOPS Assignment Banner"> \</p>
-
-\<h1 align="center">C++ OBJECT-ORIENTED PROGRAMMING\</h1>
-
-\<h3 align="center">OOPS Practical Assignments | B.Tech AI & DS\</h3>
-
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge\&logo=cplusplus)" alt="C++">
-&#x20; \<img src="[https://img.shields.io/badge/Focus-OOPS-orange?style=for-the-badge](https://img.shields.io/badge/Focus-OOPS-orange?style=for-the-badge)" alt="OOPS">
-&#x20; \<img src="[https://img.shields.io/badge/Experiments-10-green?style=for-the-badge](https://img.shields.io/badge/Experiments-10-green?style=for-the-badge)" alt="10 Experiments">
-&#x20; \<img src="[https://img.shields.io/badge/Status-Completed-success?style=for-the-badge](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)" alt="Status">
-\</p>
-
----
 
 Welcome to my **C++ Object-Oriented Programming (OOPS) Practical Assignments** repository!
 
